@@ -1,6 +1,6 @@
 package exercise_04;
 
-public class Quadrado {
+class Quadrado {
     int lado;
     int x;
     int y;
